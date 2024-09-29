@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Library {
 
 
-    String title;
+String title;
     String author;
     int year;
 
